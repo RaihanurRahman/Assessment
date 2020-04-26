@@ -1,0 +1,42 @@
+.floatright{
+	float:right ;
+}
+
+.floatleft{
+	float: left;
+}
+
+.div1{
+	height: 200px;
+	width: 300px;
+	margin-right: 100px;
+	margin-left: 100px;
+	border:3px solid red;
+}
+.div2{
+	height: 200px;
+	width: 300px;
+	margin-left: 200px;
+	border:3px solid blue;
+}
+.div3{
+	height: 200px;
+	width: 300px;
+	margin-top: 50px;
+	margin-left: 100px; 
+	border:3px solid green;
+}
+.div4{
+	height: 200px;
+	width: 300px;
+	margin-top: 50px;
+	margin-right: 200px; 
+	border:3px solid purple;
+}
+.div5{
+	height: 200px;
+	width: 350px;
+	margin-top: 100px;
+	margin-right: 100px	;
+	border:3px solid purple;
+}
